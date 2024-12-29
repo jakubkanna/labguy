@@ -41,7 +41,7 @@ It does feature Deployment action.
 
 ### Client
 
-The **Client** is built individually. There is no predefined pattern, as it is best to create a personalized front-end application that follows the design rules set by the design.
+The **Client** is built individually. There is no predefined pattern, as it is best to create a personalized front-end application that follows the design rules set by the design. Labguy-client is just a boilerplate you might start with.
 
 ## Inspiration
 
