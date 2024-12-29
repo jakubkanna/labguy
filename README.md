@@ -13,6 +13,12 @@ Labguy consists of three main applications, all written in TypeScript:
 - **Dashboard**
 - **REST API**
 
+You can find the code for each part in the respective repositories:
+
+- [**Labguy Dashboard**](https://github.com/jakubkanna/labguy-dashboard.git)
+- [**Labguy Client**](https://github.com/jakubkanna/labguy-client.git)
+- [**Labguy Server (REST API)**](https://github.com/jakubkanna/labguy-server.git)
+
 ## How It Works
 
 Labguy uses a hosted **Express server** in conjunction with **Prisma** and **JSON Web Tokens (JWT)** to process CRUD requests from the Dashboard and GET requests from the Client.
@@ -29,6 +35,8 @@ The **Dashboard** is built with:
 
 The Dashboard is ready to be hosted on GitHub, with automatic sync and deployment using GitHub Actions.
 
+- [**Labguy Dashboard Repository**](https://github.com/jakubkanna/labguy-dashboard.git)
+
 ### REST API
 
 The **REST API** relies on:
@@ -37,11 +45,15 @@ The **REST API** relies on:
 - Cloudinary
 - Multer
 
-It does feature Deployment action.
+It also includes deployment actions for automatic updates.
+
+- [**Labguy Server (REST API) Repository**](https://github.com/jakubkanna/labguy-server.git)
 
 ### Client
 
-The **Client** is built individually. There is no predefined pattern, as it is best to create a personalized front-end application that follows the design rules set by the design. Labguy-client is just a boilerplate you might start with.
+The **Client** is built individually. There is no predefined pattern, as it is best to create a personalized front-end application that follows the design rules set by the project. **Labguy-client** serves as a boilerplate to get started.
+
+- [**Labguy Client Repository**](https://github.com/jakubkanna/labguy-client.git)
 
 ## Inspiration
 
