@@ -1,6 +1,6 @@
 # Labguy - Open-Source CMS for Multimedia Artists
 
-**Labguy** is an open-source content management system designed for multimedia artists, developed by [@jakubkanna](https://twitter.com/jakubkanna) 👨‍🔬.
+[![Deploy to Sever](https://github.com/jakubkanna/labguy-server/actions/workflows/deploy.yml/badge.svg)](https://github.com/jakubkanna/labguy-server/actions/workflows/deploy.yml) [![Sync Fork and Deploy to GitHub Pages](https://github.com/jakubkanna/labguy-dashboard/actions/workflows/sync.yml/badge.svg)](https://github.com/jakubkanna/labguy-dashboard/actions/workflows/sync.yml)
 
 What started as a simple student project to create a blog API turned into a nearly one-year journey of researching the best solution for creating a Content Management System (CMS) suitable for artists.
 
@@ -12,6 +12,12 @@ Labguy consists of three main applications, all written in TypeScript:
 - **Client**
 - **Dashboard**
 - **REST API**
+
+You can find the code for each part in the respective repositories:
+
+- [**Labguy Dashboard**](https://github.com/jakubkanna/labguy-dashboard.git)
+- [**Labguy Client**](https://github.com/jakubkanna/labguy-client.git)
+- [**Labguy Server (REST API)**](https://github.com/jakubkanna/labguy-server.git)
 
 ## How It Works
 
@@ -29,6 +35,8 @@ The **Dashboard** is built with:
 
 The Dashboard is ready to be hosted on GitHub, with automatic sync and deployment using GitHub Actions.
 
+- [**Labguy Dashboard Repository**](https://github.com/jakubkanna/labguy-dashboard.git)
+
 ### REST API
 
 The **REST API** relies on:
@@ -37,12 +45,19 @@ The **REST API** relies on:
 - Cloudinary
 - Multer
 
-It does feature Deployment action.
+It also includes deployment actions for automatic updates.
+
+- [**Labguy Server (REST API) Repository**](https://github.com/jakubkanna/labguy-server.git)
 
 ### Client
 
-The **Client** is built individually. There is no predefined pattern, as it is best to create a personalized front-end application that follows the design rules set by the design. Labguy-client is just a boilerplate you might start with.
+The **Client** is built individually. There is no predefined pattern, as it is best to create a personalized front-end application that follows the design rules set by the project. **Labguy-client** serves as a boilerplate to get started.
+
+- [**Labguy Client Repository**](https://github.com/jakubkanna/labguy-client.git)
 
 ## Inspiration
 
 Examples of the Client can serve as inspiration for design and usage, showcasing how to integrate the various features and media types Labguy supports.
+
+- https://jakubkanna.github.io/jakubkanna-client/
+- https://insidewww.github.io/insidejob-client
