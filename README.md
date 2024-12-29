@@ -2,8 +2,6 @@
 
 [![Deploy to Sever](https://github.com/jakubkanna/labguy-server/actions/workflows/deploy.yml/badge.svg)](https://github.com/jakubkanna/labguy-server/actions/workflows/deploy.yml) [![Sync Fork and Deploy to GitHub Pages](https://github.com/jakubkanna/labguy-dashboard/actions/workflows/sync.yml/badge.svg)](https://github.com/jakubkanna/labguy-dashboard/actions/workflows/sync.yml)
 
-**Labguy** is an open-source content management system designed for multimedia artists, developed by [@jakubkanna](https://twitter.com/jakubkanna) 👨‍🔬.
-
 What started as a simple student project to create a blog API turned into a nearly one-year journey of researching the best solution for creating a Content Management System (CMS) suitable for artists.
 
 Although I don't consider it to be 'the best,' I believe it offers an interesting alternative for those looking for a CMS that supports various types of media (3D, sound, video, high-quality images), is fast, and offers good scalability.
