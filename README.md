@@ -6,6 +6,12 @@ What started as a simple student project to create a blog API turned into a near
 
 Although I don't consider it to be 'the best,' I believe it offers an interesting alternative for those looking for a CMS that supports various types of media (3D, sound, video, high-quality images), is fast, and offers good scalability.
 
+## Screenshots
+
+![Screenshot 1](assets/Screenshot%202024-12-29%20at%2018.34.58.png)
+![Screenshot 2](assets/Screenshot%202024-12-29%20at%2018.35.30.png)
+![Screenshot 3](assets/Screenshot%202024-12-29%20at%2018.35.47.png)
+
 ## Architecture
 
 Labguy consists of three main applications, all written in TypeScript:
