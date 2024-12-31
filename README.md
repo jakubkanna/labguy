@@ -21,7 +21,7 @@ You can find the code for each part in the respective repositories:
 
 ## How It Works
 
-Labguy uses a hosted **Express server** in conjunction with **Prisma** and **JSON Web Tokens (JWT)** to process CRUD requests from the Dashboard and GET requests from the Client.
+Labguy uses a **Express server** in conjunction with **Prisma** and **JSON Web Tokens (JWT)** to process CRUD requests from the Dashboard and GET requests from the Client. It's self-hosted and doesn't require any third party. 
 
 ### Dashboard
 
