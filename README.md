@@ -59,8 +59,8 @@ The **Client** is built individually. There is no predefined pattern, as it is b
 
 Examples of the Client can serve as inspiration for design and usage, showcasing how to integrate the various features and media types Labguy supports.
 
-- https://jakubkanna.github.io/jakubkanna-client/
-- https://insidewww.github.io/insidejob-client
+- [https://jakubkanna.com](https://www.jakubkanna.com/)
+- [https://michalknychaus.com](https://michalknychaus.com/)
 
 ## Screenshots
 
